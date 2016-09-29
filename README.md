@@ -1,3 +1,13 @@
+##Interview Problem for Net Prophet
+
+To run the app, clone this repo. Then run:
+* `bundle`
+* `rake db:migrate`
+
+To run the tests:
+* `rspec`
+
+###Application Instructions:
 Write an application that allows you to create a User via JSON and persist it to some sort of datastore. Return back the JSON object just created. 
 
 The requirements for the application are as follows:
